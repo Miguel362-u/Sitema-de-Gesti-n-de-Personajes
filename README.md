@@ -45,4 +45,4 @@ const lucas = new PersonajeFantasía({
 - Clases y herencia en JavaScript
 - Métodos generadores (`function*`)
 - Getters
-- inicialización perezosa
+- Inicialización perezosa
