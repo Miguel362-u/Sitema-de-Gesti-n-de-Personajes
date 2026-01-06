@@ -4,7 +4,7 @@ Plantilla para el manejo de personajes en un video juego con herencia y registro
 
 ## Instalación
 ```bash
-git clone <url>
+git clone https://github.com/Miguel362-u/Sitema-de-Gesti-n-de-Personajes.git
 cd CharacterManagment
 ```
 
